@@ -1,12 +1,12 @@
 [![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=pokedex-doctorderek)](https://pokedex-doctorderek.vercel.app/) [![codecov](https://codecov.io/gh/DoctorDerek/pokedex/branch/main/graph/badge.svg?token=3gfQ4azgws)](https://codecov.io/gh/DoctorDerek/pokedex) [![Build Status](https://app.travis-ci.com/DoctorDerek/pokedex.svg?branch=main)](https://app.travis-ci.com/DoctorDerek/pokedex)
 
-# 🃏 Pokédex - Next.js 12 + React 18 + Tailwind CSS + XState + Login Mockup
+# 🃏 Pokédex - Next.js 12 + React 18 + Tailwind CSS + XState + Mock Login
 
 # 👀 View Production Build at https://pokedex-doctorderek.vercel.app/
 
 I built a Pokédex that queries a GraphQL endpoint at https://graphql-pokemon2.vercel.app/
 
-Additionally, I added 3 other major features, including best practices and XState for login.
+Additionally, I added 3 other major features, including best practices and XState for mock login (admin/admin).
 
 Below you will find the complete feature set, a discussion section, and my technical journal.
 
